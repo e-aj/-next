@@ -6,15 +6,15 @@
 /.pnp
 .pnp.js
 
-# testing
-/coverage
+/nextjs-course# testing
+/nextjs-course/coverage
 
-# next.js
-/.next/
-/out/
+/nextjs-course# next.js
+/nextjs-course/.next/
+/nextjs-course/out/
 
-# production
-/build
+/nextjs-course# production
+/nextjs-course/build
 
 # misc
 .DS_Store
